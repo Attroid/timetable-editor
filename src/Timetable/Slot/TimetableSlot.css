@@ -1,0 +1,8 @@
+.timetable-slot {
+  overflow: hidden;
+  height: 100px;
+}
+
+.inner-shadow-on-hover:hover {
+  box-shadow: inset 0 0 10px 5px rgba(0, 0, 0, 0.2);
+}
